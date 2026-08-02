@@ -28,3 +28,25 @@ This project demonstrates Git and GitHub fundamentals including:
 
 \- Python calculator functions
 
+
+
+\# Git Practice Project
+
+
+
+\## Features
+
+
+
+\- Git initialization
+
+\- Multiple commits
+
+\- Branching
+
+\- Merge
+
+\- Calculator
+
+\- Error handling
+
